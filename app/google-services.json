@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "739128655384",
+    "project_id": "teenvideocall",
+    "storage_bucket": "teenvideocall.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:739128655384:android:e9925748399416d7cb8d6d",
+        "android_client_info": {
+          "package_name": "com.example.teenmeet"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "739128655384-1b7b94tobp9ovm2r34f947ieee7k7vme.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.teenmeet",
+            "certificate_hash": "18d6a81d68449c899dad1cfa0b1055c0eb0de4d0"
+          }
+        },
+        {
+          "client_id": "739128655384-481gliinsis9atu75ec3a5ba9nu0u5fs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBpV8N85tuCpwxnk5VolbRrYlQHwMI38Ag"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "739128655384-481gliinsis9atu75ec3a5ba9nu0u5fs.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
